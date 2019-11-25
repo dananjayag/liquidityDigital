@@ -1,0 +1,10 @@
+{
+  "name": "Liquidity Digital",
+  "short_name": "LD",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Liquidity Digital project!",
+  "background_color": "#fafafa",
+  "theme_color": "#b1624d"
+}
