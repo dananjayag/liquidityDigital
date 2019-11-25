@@ -6,10 +6,6 @@
     "type": "git",
     "url": "https://github.com/dananjayag/liquidityDigital.git"
   },
-  "engines": {
-    "npm": ">=5",
-    "node": ">=8.15.1"
-  },
   "author": "Dananjaya Gokale",
   "license": "MIT",
   "scripts": {
